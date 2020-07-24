@@ -1,0 +1,102 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_ba765a9a"
+  },
+  {
+    "name": "design",
+    "path": "/design",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/design.vue",
+    "chunkName": "pages/design",
+    "_name": "_82c32268"
+  },
+  {
+    "name": "resources",
+    "path": "/resources",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/resources.vue",
+    "chunkName": "pages/resources",
+    "_name": "_44cc5df2"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/shop.vue",
+    "chunkName": "pages/shop",
+    "_name": "_244b1184"
+  },
+  {
+    "name": "sponsor-nuxtjs",
+    "path": "/sponsor-nuxtjs",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/sponsor-nuxtjs.vue",
+    "chunkName": "pages/sponsor-nuxtjs",
+    "_name": "_1c06642d"
+  },
+  {
+    "name": "support",
+    "path": "/support",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/support.vue",
+    "chunkName": "pages/support",
+    "_name": "_41724f9e"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/team.vue",
+    "chunkName": "pages/team",
+    "_name": "_5529252a"
+  },
+  {
+    "name": "themes",
+    "path": "/themes",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/themes.vue",
+    "chunkName": "pages/themes",
+    "_name": "_3bafea50"
+  },
+  {
+    "name": "video-courses",
+    "path": "/video-courses",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/video-courses.vue",
+    "chunkName": "pages/video-courses",
+    "_name": "_f595f470"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_bde39d2a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_960bdb98"
+  },
+  {
+    "name": "section",
+    "path": "/:section",
+    "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/_section.vue",
+    "chunkName": "pages/_section",
+    "children": [
+      {
+        "name": "section-release-notes",
+        "path": "release-notes",
+        "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/_section/release-notes.vue",
+        "chunkName": "pages/_section/release-notes",
+        "_name": "_11ac6040"
+      },
+      {
+        "name": "section-slug",
+        "path": ":slug?",
+        "component": "/Users/yuqiyu/open-source/minbox/document/apiboot-group-deploy-docs/pages/_section/_slug.vue",
+        "chunkName": "pages/_section/_slug",
+        "_name": "_e0537122"
+      }
+    ],
+    "_name": "_65731934"
+  }
+]
